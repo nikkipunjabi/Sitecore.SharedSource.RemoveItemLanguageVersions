@@ -18,7 +18,6 @@ I've provided the access only to Administrators, so this tool can only be access
 ![Output](http://www.nikkipunjabi.com/Sitecore/RemoveItemLanguageVersions/1.png "Output")
 ![Output](http://www.nikkipunjabi.com/Sitecore/RemoveItemLanguageVersions/2.png "Output")
 
-Thanks for reading this post and let me know if you face any issues.
 You can anytime download the repository and update or let me know if you want any updates/changes.
 
 Happy Sitecoring! :)
